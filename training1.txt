@@ -1,2 +1,3 @@
 Hi this is a training session
 Adding a new line
+Adding new line in rebase branch
