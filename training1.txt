@@ -1,1 +1,2 @@
-Hi This is a training session
+Hi this is a training session
+Adding a new line
